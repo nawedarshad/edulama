@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Outfit } from "next/font/google";
 import "./globals.css";
 import FloatingActions from "@/components/FloatingActions";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 
 const outfit = Outfit({ 
   subsets: ["latin"],
@@ -189,6 +190,7 @@ export default function RootLayout({
       <body className={`${outfit.variable} font-sans antialiased`}>
         {children}
         <FloatingActions />
+        <SpeedInsights />
       </body>
     </html>
   );
