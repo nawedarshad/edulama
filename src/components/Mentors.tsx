@@ -64,7 +64,7 @@ const mentors = [
   {
     name: 'Gaurav Kumar',
     role: 'Competitive Coder',
-    company: 'IIT Kanpur',
+    company: 'TIU',
     image: '/mentors/mentor8.jpg',
     achievement: 'Solved 1500+ problems',
     rating: '5.0',
