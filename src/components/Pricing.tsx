@@ -67,7 +67,7 @@ const Pricing = () => {
             </div>
 
             <a 
-              href="https://wa.me/917903337982"
+              href="https://wa.me/917903337982?text=Hello%20Edulama%2C%20I%20would%20like%20to%20get%201%3A1%20career%20guidance%20and%20clear%20my%20doubts."
               target="_blank"
               rel="noopener noreferrer"
               className="w-full py-6 bg-blue-600 text-white font-black text-xl rounded-2xl hover:bg-blue-700 hover:scale-[1.02] transition-all shadow-xl shadow-blue-200 active:scale-95 flex items-center justify-center space-x-3"

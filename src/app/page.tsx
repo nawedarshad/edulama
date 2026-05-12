@@ -67,7 +67,7 @@ export default function Home() {
               
               <div className="flex flex-col sm:flex-row items-center justify-center gap-6 pt-6">
                 <a 
-                  href="https://wa.me/917903337982"
+                  href="https://wa.me/917903337982?text=Hello%20Edulama%2C%20I%20would%20like%20to%20get%201%3A1%20career%20guidance%20and%20clear%20my%20doubts."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-full sm:w-auto px-12 py-5 bg-blue-600 text-white font-black rounded-2xl hover:bg-blue-500 hover:scale-105 transition-all shadow-xl shadow-blue-900/20 active:scale-95 flex items-center justify-center"
@@ -75,7 +75,7 @@ export default function Home() {
                   Get Started Now
                 </a>
                 <a 
-                  href="https://wa.me/917903337982"
+                  href="https://wa.me/917903337982?text=Hello%20Edulama%2C%20I%20would%20like%20to%20get%201%3A1%20career%20guidance%20and%20clear%20my%20doubts."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-full sm:w-auto px-12 py-5 bg-transparent border-2 border-slate-700 text-white font-bold rounded-2xl hover:bg-slate-800 transition-all flex items-center justify-center"

@@ -83,7 +83,7 @@ const HowItWorks = () => {
 
         <div className="mt-20 text-center">
           <a 
-            href="https://wa.me/917903337982"
+            href="https://wa.me/917903337982?text=Hello%20Edulama%2C%20I%20would%20like%20to%20get%201%3A1%20career%20guidance%20and%20clear%20my%20doubts."
             target="_blank"
             rel="noopener noreferrer"
             className="px-10 py-5 bg-green-600 text-white font-black text-lg rounded-2xl hover:bg-green-500 hover:scale-105 transition-all shadow-xl shadow-green-100 flex items-center justify-center space-x-3 mx-auto w-fit"
